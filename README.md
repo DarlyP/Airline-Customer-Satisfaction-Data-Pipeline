@@ -1,4 +1,4 @@
-<img src="https://imgtr.ee/images/2024/07/28/0ea7fa9d2d9f3f38e477bcd1ac7d389b.jpeg" alt="0ea7fa9d2d9f3f38e477bcd1ac7d389b.jpeg" border="0" />
+![Airlines Customer satisfaction](https://github.com/DarlyP/Airline-Customer-Satisfaction-Data-Pipeline/blob/main/customer_satisfaction.jpg)
 
 # Airline Customer Satisfaction Pipeline
 
